@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+li{
+    list-style: url(../img/Ellipse.png);
+}
+body{
+    font-family: 'Poppins';
+    width: 1500px;
+}
+.left{
+    background-color: #233A5F;
+    padding-left: 15px;
+    color: white;
+    width: 400px;
+}
+.wrapper{
+    display: flex;
+}
+.right{
+    padding-left: 60px;
+    width: 800px;
+}
+.hani{
+    margin-top: 31px;
+    width: 140px;
+    height: 140px;
+}
+.contact-div{
+    background-color: #E5E5E5;
+    color: #233A5F;
+    padding-left: 13px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.link{
+    display: flex;
+    margin-bottom: 10px;
+}
+.link img{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+.all-links{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 65px;
+}
+hr{
+    background-color: #233A5F;
+    border-radius: 10px;
+    width: 65px;
+    height: 4px;
+    margin-left: 0;
+}
+header h3{
+    color: #C3C2C2;
+    margin-top: 0;
+}
+h1{
+    margin-bottom: 0;
+}
+.about h2{
+    margin-bottom: 0;
+}
+.Experience h2{
+    margin-bottom: 0;
+}
+.Education h2{
+    margin-bottom: 0;
+}
+.job-experience{
+    display: flex;
+}
+.job-experience img{
+    height: 50px;
+    padding-top: 10px;
+}
+.job-information{
+    margin-left: 80px;
+}
+.right ul{
+    padding: 0;
+}
+.all-links p{
+    margin: 0;
+    margin-left: 0,7em;
+}
+ul{
+    padding-left: 20px;
+}
+.main-information {
+    color: #878787;
+}
+.Education-information{
+    width: 450px;
+    margin-left: 100px;
+}
+.education-full-information{
+    display: flex;
+}
+.Bachelor{
+    font-weight: bold;
+}
