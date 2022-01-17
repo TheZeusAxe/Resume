@@ -85,9 +85,10 @@ h1{
 .all-links p{
     margin: 0;
     margin-left: 0,7em;
+    text-decoration: underline;
 }
 ul{
-    padding-left: 20px;
+    padding-left: 35px;
 }
 .main-information {
     color: #878787;
@@ -101,4 +102,9 @@ ul{
 }
 .Bachelor{
     font-weight: bold;
+}
+.right h4{
+    font-size: 1.4em;
+    margin: 0;
+    color: #2A2A2A;
 }
